@@ -1,0 +1,147 @@
+.mainContainer {
+    margin-top: 2rem;
+}
+
+.historyDivII {
+    padding-left: 2rem;
+}
+
+.historyDiv {
+    width: 82%;
+    padding-left: 2rem;
+    padding-top: 2rem;
+    margin-left: 2rem;
+}
+
+.userImage {
+    padding-right: 1rem;
+    width: 56px;
+    height: 56px;
+
+}
+
+.label {
+    font-family: Gilroy-SemiBold;
+    font-size: 24px;
+    font-weight: bold;
+}
+.textPadding{
+    margin: 7px;
+    padding-left: 10px;
+}
+
+.userText {
+    margin-top: 1rem;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.desc {
+    margin-top: 1rem;
+    font-size: 14px;
+}
+
+.HistoryText {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.userIcon {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1rem;
+
+
+}
+
+.userDiv {
+    padding-right: 2rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.userDivII {
+    display: flex;
+    justify-content: space-between;
+}
+
+.bitContainer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.currentContainer {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.currentContainerII {
+    margin-top: 2rem;
+    margin-right: 12rem;
+    margin-bottom: 2rem;
+}
+
+.currentBitContainer {
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-self: center;
+    border-radius: 1rem;
+    background-color: #282c34;
+}
+
+.currentBitContainerII {
+    width: 35%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-self: center;
+    border-radius: 1rem;
+    background-color: #282c34;
+}
+
+.currentBitInnerContainer {
+    justify-content: center;
+    display: flex;
+    color: white;
+}
+
+.bitText {
+    font-size: 10px;
+    padding: 4px;
+}
+.scrollBar{
+    height: 600px;
+    width: auto;
+    background: black;
+    color: white;
+}
+.ethText {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.ethTextII {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.usdTest {
+    color: #979797;;
+}
+.cancelSaleBtn {
+    width: 90%;
+    color: white;
+    padding: 10px;
+    font-size: 14px;
+    background-color: black;
+    margin-bottom: 4rem;
+    border: 0;
+    border-radius: 0px;
+}
+.twentyMinText {
+    letter-spacing: -0.01em;
+    color: #979797;
+    padding-left: 10px;
+}

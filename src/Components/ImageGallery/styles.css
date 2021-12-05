@@ -1,0 +1,91 @@
+.AvatarImage {
+    width: 64px;
+    height: 64px;
+    
+}
+.userDetail {
+    display: flex;
+    margin: 20px;
+    
+}
+.userdetailBorder {
+    padding-left: 24px;
+    padding-top: 5px;
+    width: auto;
+    height: auto;
+    justify-content: space-between;
+    padding-bottom: 120px;
+
+}
+.textstyle1 {
+    font-family: Gilroy-SemiBold;
+    font-size: 24px;
+    width: 200px;
+}
+.textstyle2 {
+    font-family: Gilroy-SemiBold;
+    font-size: 16px;
+    width: 200px;
+    color: #979797;
+    line-height: 140%;
+    letter-spacing: -0.01em
+}
+.textstyleJumaker {
+        padding-left: 20px;
+        padding-top:5px;
+}
+.bottomMargin{
+
+}
+.textstyle3 {
+    padding-left: 7px;
+    padding-top: 0px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 0px 6px;
+    font-family: Gilroy-SemiBold;
+    font-size: 16px;
+    line-height: 100%;
+    color: #000000;
+}
+.textstyle {
+    padding-top: 13px;
+    font-family: Gilroy-Medium;
+    font-size: 16px;
+    line-height: 140%;
+    letter-spacing: -0.01em;
+    color: #575757;
+    width: 420px;
+}
+.imageGallery {
+    width: 136px;
+    height: 136px;
+
+}
+.ImageDiv {
+    justify-content: space-between;
+    display: flex; 
+    margin: 35px;
+
+}
+.socialDiv {
+    margin: 35px;
+    display: flex;
+    justify-content: space-between;
+}
+.SocialBtn {
+    width: 114px;
+    height: 40px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    border: 0;
+    box-shadow: none;
+    border-radius: 0px;
+}
+.imageexplore {
+    width: 11px;
+    height: 11px;
+    margin-top: 15px;
+}
